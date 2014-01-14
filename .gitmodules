@@ -1,0 +1,3 @@
+[submodule "src/OroAcme"]
+	path = src/OroAcme
+	url = https://github.com/ignat-s/OroAcme.git

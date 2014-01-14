@@ -4,9 +4,10 @@
     "homepage": "https://github.com/orocrm/crm-application.git",
     "license": "The Open Software License version 3.0",
     "autoload": {
-        "psr-0": { 
+        "psr-0": {
            "": "src/",
-           "OroEmail\\": "app/emails"
+           "OroEmail\\": "app/emails",
+           "Acme\\Bundle": "src/OroAcme/src"
          }
     },
     "require": {
